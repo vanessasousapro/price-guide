@@ -2,6 +2,7 @@
 
 
 ![Preview do projeto](./assets/preview-guide-price.png)
+![Preview do projeto](./assets/preview-chart.png)
 
 ## 📌 Sobre o Projeto
 
